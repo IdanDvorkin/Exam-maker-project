@@ -1,0 +1,15 @@
+Exam
+
+[1] Who is the best teacher
+
+[2] Who is the best teacher
+
+(1) Arnon
+(2) Keren
+(3) Tom
+(4) Binski
+(5) There are 0 correct answers
+(6) There are more than 1 correct answer
+
+
+[3] 3+5
